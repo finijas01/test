@@ -48,9 +48,7 @@ plot_df=
 ggplot(plot_df,aes(x=x,y=y))+geom_point()
 ```
 
-```{r, chunk_histogram}
-ggplot(plot_df,aes(x=x))+geom_histogram()
-```
+
 
 # Learning assessment
 
